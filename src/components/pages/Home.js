@@ -1,4 +1,5 @@
-import Tutorial from "../Tutorials";
+import Tutorials from "../Tutorials";
+
 export default function Home(){
-    return <Tutorial />;
+    return <Tutorials />;
 }
